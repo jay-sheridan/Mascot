@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896691530210",
+    "project_id": "mascot-101fb",
+    "storage_bucket": "mascot-101fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896691530210:android:adde110ab3edc9e26471bb",
+        "android_client_info": {
+          "package_name": "week11.st306580.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPh0ccY2qAhXUobB17woNMhEO-_n4wEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
